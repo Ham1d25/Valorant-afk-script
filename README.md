@@ -1,4 +1,3 @@
-```markdown
 # Valorant Anti-AFK Script 🤖🎮
 
 A lightweight Python script designed to simulate random player movement and actions to prevent being kicked for inactivity (AFK). It uses direct input simulation to ensure keystrokes register correctly in-game.
